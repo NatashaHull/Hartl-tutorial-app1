@@ -12,5 +12,5 @@ like using user-names instead of user-ids on the
 microposts page.  Moreover, I thought it'd be a
 good idea for you to be able to get to the respective
 user show page, and move around between the two
-scaffolds.  This led to the changes for my the
-most recent commit.
+scaffolds.  This led to the changes not specified by
+the Hartl tutorial in the more recent commits.
